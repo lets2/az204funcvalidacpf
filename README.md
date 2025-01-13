@@ -29,3 +29,7 @@ func azure functionapp publish <nomedafuncion>
 ```
     "code"="app-key-default"
 ```
+
+## Para saber mais:
+
+[Azure function com js](https://learn.microsoft.com/en-us/samples/azure-samples/functions-quickstart-javascript-azd/functions-quickstart-javascript-azd/)
