@@ -25,4 +25,4 @@ func azure functionapp publish <nomedafuncion>
 ```
 
 -   Obs: Após publicar, precisa ir no portal da azure em App keys, pegar a chave default e passar como parâmetro na requisição:
-    "code" = <app-key-default>
+    "code"="app-key-default"
